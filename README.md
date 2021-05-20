@@ -16,8 +16,15 @@ I have used the following sources as a guide to build this project
 
 ## Output
 1. Boroughs, Neighbourhoods and Locations where most listings are located
+   + Most Airbnb listings are located in Manhattana and in parts of Brooklyn closer to Manhattan.
+
 2. Common listings by room type and their avg price by borough
+   + The most common roomtype is an Entire home/apt, also the most expensive. The avg prices in Manhattan are greater than rest of the Boroughs
+
 3. Commonly used words to describe the listings.
+   + Brooklyn, Manhattan, Private, Heart, Cozy are a few words used commonly to describe the listings
+   + Private, spacious, east, beautiful, large are the top 5 adjectives used to describe the listings
+
 Besides the above, I also tried to answer most commonly reviewed listings and hosts with the most number of listings
 
 ## Prerequisites
