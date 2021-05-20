@@ -1,7 +1,7 @@
 
 # Airbnb NYC Data Exploration Project
 
-The goal of this exercise is to explore NYC data, clean it up, and model it to build data vizualizations to get a few key insights about the data
+The goal of this exercise is to explore NYC data, clean it up, and model it to build data vizualizations to get a few key insights about the data. I ahve explained the results on my blog on medium. Click link to access it - https://rekula-d.medium.com/exploratory-data-analysis-of-airbnb-nyc-ed1998da1ee4
 
 ## Functionality
 As I go through this task, I try to answer 3 specific questions
